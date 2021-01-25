@@ -137,7 +137,7 @@ def main():
         elif var == "5":
             DictProc.count_file()
         else:
-            print("Завершение работы")
+            print("finish")
             break
 
 
