@@ -124,6 +124,7 @@ def main():
     print("4 - Добавление новой записи в файл")
     print("5 - Подсчёт файлов в директории temp")
     while True:
+        print("Your choice:")
         var = input()
         if var == "1":
             dat.output_data()
